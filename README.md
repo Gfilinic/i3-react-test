@@ -23,4 +23,4 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 
 Modules used: look in package.json
 
-
+The two pages with Functionality ### `Annual Report Home` and ###`Home`
