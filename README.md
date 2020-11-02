@@ -23,13 +23,13 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 
 Modules used:
 
-import react-slick
-import "slick-carousel/slick/slick.css";
-import "slick-carousel/slick/slick-theme.css";
-import { Link } from 'react-router-dom'
-import { makeStyles } from "@material-ui/core/styles";
-import { Grid, Paper } from "@material-ui/core";
-import Fade from 'react-reveal/Fade';
-import { BrowserRouter as Router, Switch, Route} from 'react-router-dom';
+import react-slick \
+import "slick-carousel/slick/slick.css"; \
+import "slick-carousel/slick/slick-theme.css"; \
+import { Link } from 'react-router-dom' \
+import { makeStyles } from "@material-ui/core/styles"; \
+import { Grid, Paper } from "@material-ui/core"; \
+import Fade from 'react-reveal/Fade'; \
+import { BrowserRouter as Router, Switch, Route} from 'react-router-dom'; \
 
 
