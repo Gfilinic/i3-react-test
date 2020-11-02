@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "title": "Json Mockup",
+    "content": "This is mockup of js scirpt",
+    "slug": "json-mockup"
+  },
+  {
+    "id": 2,
+    "title": "Json Mockup 2",
+    "content": "This is second part of array",
+    "slug": "json-mockup-2"
+  }
+]
